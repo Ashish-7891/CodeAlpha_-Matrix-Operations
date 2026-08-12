@@ -142,3 +142,90 @@ matrix_operations.exe
 ---
 
 ##  🎮 Sample Gameplay
+
+```
+=================================
+       MATRIX OPERATIONS
+=================================
+1. Matrix Addition
+2. Matrix Multiplication
+3. Matrix Transpose
+4. Exit
+=================================
+
+Enter your choice: 1
+
+Enter number of rows: 2
+Enter number of columns: 2
+
+Enter elements of Matrix A:
+Enter element [1][1]: 1
+Enter element [1][2]: 2
+Enter element [2][1]: 3
+Enter element [2][2]: 4
+
+Enter elements of Matrix B:
+Enter element [1][1]: 5
+Enter element [1][2]: 6
+Enter element [2][1]: 7
+Enter element [2][2]: 8
+
+Result of Matrix Addition:
+6       8
+10      12
+
+```
+
+---
+
+# 📸 Screenshots
+Add screenshots of:
+
+* Main Matrix Operations menu
+* Matrix Addition
+* Matrix Multiplication
+* Matrix Transpose
+* Invalid matrix input
+* Complete output
+
+---
+
+# 📚 Learning Outcomes
+Through this project, I improved my understanding of:
+
+C programming fundamentals
+* Two-dimensional arrays
+* Matrix operations
+* Functions
+* Nested loops
+* Switch-case statements
+* Input validation
+* Modular programming
+* Problem-solving skills
+
+
+---
+
+# 🚀 Future Improvements
+
+Possible future upgrades:
+* Dynamic memory allocation
+* Larger matrix support
+* Matrix determinant
+* Matrix inverse
+* Scalar multiplication
+* Matrix rotation
+* Graphical User Interface (GUI)
+
+---
+
+# 👩‍💻 Author
+
+**Ashish Kumar Gupta**
+
+B.Tech Computer Science Engineering
+
+---
+
+# ⭐ Acknowledgement
+Developed as part of the CodeAlpha C Programming Internship Program to strengthen programming skills, problem-solving abilities, and practical software development experience.
